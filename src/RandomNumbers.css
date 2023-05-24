@@ -1,0 +1,36 @@
+.button {
+    background-color: #A31E39;
+    border-color: #A31E39;
+    border-radius: 5px;
+    border-style: unset;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button:hover {
+    background-color: #A31E39;
+    border-color: #A31E39;
+}
+
+.list {
+    list-style-type: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h4, p {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    color: #A31E39;
+}
